@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 My name is Ernesto, but I go by Natoo online. I'm a full-stack developer enthusiastic about crafting innovative solutions and making a positive impact in the modern tech world, “one block at a time.”
 
 ## Interests
-- 💎 Minecraft Mod Development, Server Management, Building Integrated Modpacks, Datapacks, and Resource Packs
+- 💎 Minecraft
+  - Building Integrated Modpacks, Datapacks, and Resource Packs
+  - Server Management
+  - Mod Development (in learning!)
 - ⚡ Pokémon ROM Hacking
 - 🎮 Game Development
 - 🤖 Discord Bot Development
-- ✨ Content Creation
 
 ## Skills
 
